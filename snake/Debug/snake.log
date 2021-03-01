@@ -1,0 +1,7 @@
+﻿  cgame.cpp
+c:\users\dell\source\repos\snake\snake\snake\cgame.cpp(65): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  csnake.cpp
+  food.cpp
+  snake.cpp
+  正在生成代码...
+  snake.vcxproj -> C:\Users\dell\source\repos\snake\snake\Debug\snake.exe
